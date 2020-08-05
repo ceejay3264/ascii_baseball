@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/christophercordero/CLionProjects/ascii_baseball/Game.cpp
+iostream
+-
+random
+-
+ctime
+-
+Game.h
+/Users/christophercordero/CLionProjects/ascii_baseball/Game.h
+
+/Users/christophercordero/CLionProjects/ascii_baseball/Game.h
+string
+-
+ctime
+-
+vector
+-
+Opponent.h
+/Users/christophercordero/CLionProjects/ascii_baseball/Opponent.h
+
+/Users/christophercordero/CLionProjects/ascii_baseball/Opponent.h
+vector
+-
+string
+-
+ctime
+-
+random
+-
+iostream
+-
+
